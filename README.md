@@ -1,6 +1,6 @@
-# flutter_camp
+# Mobile Programming With Flutter
 
-A new Flutter project.
+
 
 ## Getting Started
 
